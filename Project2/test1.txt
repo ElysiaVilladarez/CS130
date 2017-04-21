@@ -1,0 +1,3 @@
+disc = SQRT(9);
+PRINT(disc);
+$
